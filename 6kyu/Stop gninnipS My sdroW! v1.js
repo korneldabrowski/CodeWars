@@ -7,9 +7,6 @@
 // spinWords( "This is a test") => returns "This is a test" 
 // spinWords( "This is another test" )=> returns "This is rehtona test"
 
-
-// this version does not use reverse function, so it performs much better!
-
 function spinWords(string){
   
   let finalSentence = ""
